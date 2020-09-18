@@ -5,3 +5,4 @@ class Hello:
 
 cls = Hello()
 cls.printHello()
+cls.printHello()
